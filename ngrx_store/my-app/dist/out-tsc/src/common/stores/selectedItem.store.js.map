@@ -1,0 +1,1 @@
+{"version":3,"file":"selectedItem.store.js","sourceRoot":"","sources":["../../../../../src/common/stores/selectedItem.store.ts"],"names":[],"mappings":"AAAA,MAAM,CAAC,MAAM,YAAY,GAAG,CAAC,QAAa,IAAI,EAAE,EAAE,IAAI,EAAE,OAAO,EAAE,EAAE,EAAE;IACjE,MAAM,CAAC,CAAC,IAAI,CAAC,CAAC,CAAC;QACX,KAAK,aAAa;YACd,MAAM,CAAC,OAAO,CAAC;QACnB;YACI,MAAM,CAAC,KAAK,CAAC;IACrB,CAAC;AACL,CAAC,CAAC"}

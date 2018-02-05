@@ -1,0 +1,1 @@
+{"version":3,"file":"selectedWidget.store.js","sourceRoot":"","sources":["../../../../../src/common/stores/selectedWidget.store.ts"],"names":[],"mappings":"AAAA,MAAM,CAAC,MAAM,cAAc,GAAG,CAAC,QAAa,IAAI,EAAE,EAAE,IAAI,EAAE,OAAO,EAAE,EAAE,EAAE;IAErE,MAAM,CAAC,CAAC,IAAI,CAAC,CAAC,CAAC;QACT,KAAK,eAAe;YAChB,MAAM,CAAC,OAAO,CAAC;QACnB;YACI,MAAM,CAAC,KAAK,CAAC;IACrB,CAAC;AACL,CAAC,CAAC"}
